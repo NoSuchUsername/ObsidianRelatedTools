@@ -2,4 +2,5 @@
 - Add Obsidian Git from the Community Plugins section
 - Enable plugin from the settings to have ability to use it.
 - From "Command Palette" choose "Git: Initialize new repository". Result: the repository is created with respective files in root folder of the current vault
-- 
+- Create a repository with the name of the vault currently working on (in github, microsoft git repos or any other).
+- Get the Clone url for the reopsitory and run "git remote add origin 'path/to/repository.git'"

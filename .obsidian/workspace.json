@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Initial Setup.md",
+                "file": "Obsidian_Git/Initial Setup.md",
                 "mode": "source",
                 "source": false
               },
@@ -169,9 +169,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "fd7fefd36e2f9b06",
+  "active": "55e3debcd4266753",
   "lastOpenFiles": [
-    "Initial Setup.md",
+    "Obsidian_Git/Initial Setup.md",
     "Obsidian_Git",
     "create a link.md",
     "Welcome.md"

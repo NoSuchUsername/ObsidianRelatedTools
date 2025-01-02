@@ -1,0 +1,5 @@
+- As of 03-Jan-2025: The plugin should be installed and enabled for each new vault. (needs clarification on the fact of being done this way)
+- Add Obsidian Git from the Community Plugins section
+- Enable plugin from the settings to have ability to use it.
+- From "Command Palette" choose "Git: Initialize new repository". Result: the repository is created with respective files in root folder of the current vault
+- 

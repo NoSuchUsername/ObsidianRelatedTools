@@ -1,6 +1,10 @@
 - As of 03-Jan-2025: The plugin should be installed and enabled for each new vault. (needs clarification on the fact of being done this way)
 - Add Obsidian Git from the Community Plugins section
 - Enable plugin from the settings to have ability to use it.
+- (optional) Create "Personal Access Token" and use it for authentication (as of 03-Jan-2025 having issues with "Fine grained" access tokens)
 - From "Command Palette" choose "Git: Initialize new repository". Result: the repository is created with respective files in root folder of the current vault
 - Create a repository with the name of the vault currently working on (in github, microsoft git repos or any other).
 - Get the Clone url for the reopsitory and run "git remote add origin 'path/to/repository.git'"
+- Attempt to push one of the repositories with "git push --set-upstream origin master" command to trigger Authentication prompt.
+	- (option 1) Use username/password for granting access for current git ecosystem to work with pc
+	- (option 2) Use a "classic" Personal Access Token for giving current git ecosystem ability to work with pc

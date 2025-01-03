@@ -156,7 +156,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -169,7 +169,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "55e3debcd4266753",
+  "active": "fd7fefd36e2f9b06",
   "lastOpenFiles": [
     "Obsidian_Git/Initial Setup.md",
     "Obsidian_Git",
